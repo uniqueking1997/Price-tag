@@ -31,7 +31,7 @@ var list3=[
 
   return (
     <div className="App">
-     <div className="row">
+     <div className="row">  
       <div className="col-lg-4 ">
         <Details
           pricetitle="FREE"
